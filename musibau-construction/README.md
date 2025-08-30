@@ -3,7 +3,7 @@
 👉 Live Site: [musibauolaiyaconstruction.com.ng](http://musibauolaiyaconstruction.com.ng)  
 
 ## 🔹 Features
-- Responsive company profile website  
+- Steel construction company website  
 - Services showcase with gallery  
 - Contact form integration  
 - SEO optimization with Yoast  
