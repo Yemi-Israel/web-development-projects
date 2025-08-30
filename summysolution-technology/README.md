@@ -5,13 +5,12 @@
 ## 🔹 Features
 - Solutions company profile website  
 - Modern UI with responsive design  
-- Service showcase  
-- Contact form integration  
-
+- Service showcase
+  
 ## 🔹 Tech Stack
-- WordPress CMS  
-- Elementor Pro  
-- PHP / CSS customizations  
+- HTML5
+- CSS3
+- Javascript
 
 ## 🔹 Screenshots
 <img width="1358" height="642" alt="image" src="https://github.com/user-attachments/assets/150c9662-7013-45c8-ada8-2bebef14144d" />
