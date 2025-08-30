@@ -3,7 +3,8 @@
 👉 Live Site: [hafrufbakltd.com.ng](http://hafrufbakltd.com.ng)  
 
 ## 🔹 Features
-- Corporate company profile website  
+- Real Estate Website
+- Property listings category 
 - Service categories display  
 - Contact form integration  
 - Mobile responsive  
